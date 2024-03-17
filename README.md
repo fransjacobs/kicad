@@ -1,0 +1,2 @@
+# kicad
+My Kicad Designs
